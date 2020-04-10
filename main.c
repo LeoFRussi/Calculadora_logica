@@ -3,6 +3,7 @@
 
 int main()
 {
+<<<<<<< HEAD
     int V1, V2;
     printf("Calculadora Logica");
     printf("Digite a Primeira e Segunda Variaveis, lembre-se de usar 0 pra falso e 1 pra verdadeiro:\n");
@@ -77,5 +78,9 @@ int main()
     }else{
         printf("Cancelar");
     }
+=======
+    printf("Hello world!\n");
+    printf("salve rapaziada");
+>>>>>>> ea58af0ff2ea7d0632dfefe9d70640f52a920862
     return 0;
 }
